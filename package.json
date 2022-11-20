@@ -1,0 +1,10 @@
+{
+  "name": "cosmicpvp-regex-generator",
+  "version": "0.1.1-Prerelease-Dungeon",
+  "description": "Generate CosmicPVP Regexs for TabbyChat plugin (CosmicClient based / This release is for Dungeon Planet)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Allen Morris",
+  "license": "MIT"
+}

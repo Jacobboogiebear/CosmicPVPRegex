@@ -1,0 +1,34 @@
+[
+    {
+        "channel": "Users",
+        "folder": "chats"
+    },
+    {
+        "channel": "Coinflips",
+        "folder": "coinflips"
+    },
+    {
+        "channel": "Trials",
+        "folder": "trials"
+    },
+    {
+        "channel": "Cosmic",
+        "folder": "cosmic"
+    },
+    {
+        "channel": "Strongholds",
+        "folder": "strongholds"
+    },
+    {
+        "channel": "LMS",
+        "folder": "lms"
+    },
+    {
+        "channel": "Loot",
+        "folder": "loot"
+    },
+    {
+        "channel": "Events",
+        "folder": "events"
+    }
+]

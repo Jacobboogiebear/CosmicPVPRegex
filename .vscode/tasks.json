@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Generate Regex JSON dump",
+            "type": "shell",
+            "command": "node \"${workspaceFolder}\\tasks\\generate-regex-json.js\"",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        },
+        {
+            "label": "Generate server JSON",
+            "type": "shell",
+            "command": "node \"${workspaceFolder}\\tasks\\generate-server-json.js\"",
+            "options": {
+                "cwd": "${workspaceFolder}"
+            }
+        }
+    ]
+}
