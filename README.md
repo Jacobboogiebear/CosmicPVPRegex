@@ -18,4 +18,4 @@ Finally, the server.json output file is place in the regex folder as server.json
 Path for the chat logs so you can edit the commands is %appdata%\.minecraft\logs\chat\pvp0.cosmicproxy.net.(25565)
 
 # Regex JSON Version
-v0.1.1-Prerelease-Dungeon 11/20/2022
+v0.1.2-Prerelease-Dungeon 11/21/2022
